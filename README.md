@@ -1,3 +1,5 @@
+download and extract zip file 
+
 use localhost or live server 
 
 database name is : iportfolio
